@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # Road Less Traveled
+=======
+# eleventy-base-blog v9
+>>>>>>> 2d3a7ea1a13e3dc139b848705b6bd62078f5fabf
 
 A minimalist literary blog built with [Eleventy](https://www.11ty.dev/).
 
