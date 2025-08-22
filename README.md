@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # eleventy-base-blog v9
 
 A starter repository showing how to build a blog with the [Eleventy](https://www.11ty.dev/) site generator (using the [v3.0 release](https://github.com/11ty/eleventy/releases/tag/v3.0.0)).
@@ -118,4 +117,3 @@ If your site enforces a [Content Security Policy](https://developer.mozilla.org/
 2. Configure the server with the CSP directive `style-src: 'unsafe-inline'` (less secure).
 =======
 # blog
->>>>>>> d469c6f355754e040ac8382405b13ea2d92dc9ec
