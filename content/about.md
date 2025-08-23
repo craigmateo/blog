@@ -6,4 +6,4 @@ const eleventyNavigation = {
 ---
 # About
 
-I am a person that writes stuff.
+On this site I share reflections on art and nature.
